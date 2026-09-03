@@ -32,4 +32,4 @@ Python (services, orchestration, concurrency, CLIs) · TypeScript/React · C/C++
 
 🇫🇷 French (native) · 🇬🇧 English · 🇩🇪 German (conversational) · 🇱🇧 Arabic (at home, badly conjugated)
 
-📍 Paris → Zürich · [LinkedIn](https://linkedin.com/in/karim-abdallah-r)
+📍 Paris · [LinkedIn](https://linkedin.com/in/karim-abdallah-r)
