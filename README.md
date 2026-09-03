@@ -22,7 +22,9 @@ Some of my favourite work lives behind a private repo — either built for clien
 
 **is it postable** — Backend for a mobile app that gives you friendly feedback on what to post on Instagram, integrating OpenAI back in early 2024 when that was still a slightly adventurous thing to do. A friend designed the user flow; I built the Flutterflow frontend and the Python/Django backend. Also my first properly vibe-coded app — VSCode with ChatGPT riding shotgun, well before that was a normal way to work.
 
-**Nilo** — A smartwatch to help parents care for children with ADHD. Contracted to build the entire prototype, idea through first iteration: a JavaScript watch app on the ZeppOS SDK, a Python FastAPI service doing signal processing and emotional-state classification, and a TypeScript React PWA for the parent-facing interface. Three runtimes, one wrist, a lot of opinions about sampling rates.
+**Nilo** — A smartwatch to help parents care for children with ADHD. Contracted to take it from idea to first working prototype: a watch app in JavaScript on an open wearable platform, a Python/FastAPI service behind it, and a TypeScript React PWA for the parent-facing side.
+
+All of it was built with Claude — and I mean all of it. The design, the watch app, the service, the PWA. Three runtimes, one wrist, and a collaborator with no opinions about whose turn it was to write the tests. 🕺
 
 ---
 
