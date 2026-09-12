@@ -2,7 +2,7 @@
 
 I build software that goes out and does something in the world — usually involving hardware that can be unplugged, data that can't leave the building, or a model that shipped last Tuesday and isn't in anyone's catalog yet. 🕺
 
-Currently Lead Founding Product Engineer at **Arlequin AI** in Paris, where I work on an airgapped, on-premises LLM platform. "Airgapped" meaning no internet, no remote access, and no SSHing in from the couch at 11pm to fix it. You learn to test properly. 🕺
+Currently Lead Founding Product Engineer at **Arlequin AI** in Paris, where I work on an airgapped, on-premises LLM platform. "Airgapped" meaning no internet, no remote access, and no SSHing in from the couch at 11pm to fix it. You learn to test properly.
 
 Before that: robotics at iRobot, a healthcare scaleup in New York, my own venture, and a year advising founders across Dubai and Iraq.
 
@@ -10,9 +10,9 @@ Before that: robotics at iRobot, a healthcare scaleup in New York, my own ventur
 
 ## 🌱 Public projects
 
-**[myst](https://github.com/karim-abdallah/myst)** — An automatic watering system for houseplants. I built the hardware prototype and wrote the MicroPython firmware. It ran in my apartment and in a few friends' homes, which is the highest-stakes deployment environment there is: if it fails, something dies and a friend is passive-aggressive about it. Waters every 4 days, 3 times a day, 2 minutes a go — numbers arrived at empirically, by killing plants. A 2019 prototype and honestly a bit rough; the README says which bits never got finished. 🕺
+**[myst](https://github.com/karim-abdallah/myst)** — An automatic watering system for houseplants. I built the hardware prototype and wrote the MicroPython firmware. It ran in my apartment and in a few friends' homes, which is the highest-stakes deployment environment there is: if it fails, something dies and a friend is passive-aggressive about it. Waters every 4 days, 3 times a day, 2 minutes a go — numbers arrived at empirically, by killing plants. A 2019 prototype and honestly a bit rough; the README says which bits never got finished.
 
-**[vacay](https://github.com/karim-abdallah/vacay)** — A leave-management app: time-off policies, accrual rules, public holidays by country, and a team calendar for booking days off. Django/DRF backend and a React frontend on an admin template, built through 2023 with a collaborator. My end was the HR data pipeline — pulling company workforce sheets out of Google Sheets, validating them, and running them past a model — plus a pile of frontend work on the calendar and dashboard. The plan was to take it into French leave law — *congés payés* acquisition periods, RTT, carry-over, the whole *Code du travail* rabbit hole — which is a great deal more interesting than the flat PTO counter most tools ship. We never got there, so what's public is the generic version. 🕺
+**[vacay](https://github.com/karim-abdallah/vacay)** — A leave-management app: time-off policies, accrual rules, public holidays by country, and a team calendar for booking days off. Django/DRF backend and a React frontend on an admin template, built through 2023 with a collaborator. My end was the HR data pipeline — pulling company workforce sheets out of Google Sheets, validating them, and running them past a model — plus a pile of frontend work on the calendar and dashboard. The plan was to take it into French leave law — *congés payés* acquisition periods, RTT, carry-over, the whole *Code du travail* rabbit hole — which is a great deal more interesting than the flat PTO counter most tools ship. We never got there, so what's public is the generic version.
 
 ---
 
